@@ -11,11 +11,11 @@ class script(object):
 ✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: KOYEB
 ✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v1.0.1 [ 𝙱𝙴𝚃𝙰 ]"""
     SOURCE_TXT = """<b>NOTE:</b>
-- TechMagazine-AutoFilterBot is a open source project. 
+- AutoFilterBot is a open source project. 
 - Source - https://github.com/itsyogieu/TechMagazine-AutoFilterBot
 
 <b>DEVS:</b>
-- <a href=https://t.me/TechMagazineYT>TechMagazine</a>"""
+- <a href=https://t.me/CXN_ADMIN> ALONETG </a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and EvaMaria will respond whenever a keyword is found the message
